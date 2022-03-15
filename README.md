@@ -1,2 +1,4 @@
 ### I'm Sam
-Hi there.
+Hi there.\
+\
+I'm currently learning: C++ & Windows Exploitation
