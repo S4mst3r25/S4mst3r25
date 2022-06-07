@@ -1,5 +1,4 @@
 ### I'm Sam
-Hi there.\
-\
+Hi there.
 
 
