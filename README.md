@@ -19,6 +19,7 @@
 <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase"></a>
 <a href="https://postgresql.org"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres"></a>
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"></a>
+<a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS"></a>
 <a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"></a>
 <a href="https://netlify.com"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"></a></p>
     
@@ -45,7 +46,6 @@
 ---
 <h4 id="operating-systems-">Operating Systems</h4>
 <p><a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></a>
-<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali"></a>
 <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&amp;logoColor=fff&amp;style=for-the-badge" alt="Arch"></a></p>
     
 ---
